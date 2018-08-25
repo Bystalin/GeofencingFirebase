@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "116864138452",
+    "firebase_url": "https://notifiactiongeofire.firebaseio.com",
+    "project_id": "notifiactiongeofire",
+    "storage_bucket": "notifiactiongeofire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116864138452:android:575a4d80c037b236",
+        "android_client_info": {
+          "package_name": "com.example.vicky.geofencingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116864138452-00ia1e2mefdvtqnnggff4hnun47u497p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtdvC1T1dg22ctM-8Y-j-HMpdgRaMiRSs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
